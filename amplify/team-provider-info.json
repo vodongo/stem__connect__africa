@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-stemconnectafrica-dev-192150-authRole",
+      "UnauthRoleArn": "arn:aws:iam::440343172651:role/amplify-stemconnectafrica-dev-192150-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::440343172651:role/amplify-stemconnectafrica-dev-192150-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-stemconnectafrica-dev-192150-deployment",
+      "UnauthRoleName": "amplify-stemconnectafrica-dev-192150-unauthRole",
+      "StackName": "amplify-stemconnectafrica-dev-192150",
+      "StackId": "arn:aws:cloudformation:us-east-1:440343172651:stack/amplify-stemconnectafrica-dev-192150/b3fb10e0-9e06-11eb-bcb7-1272d872aba7",
+      "AmplifyAppId": "dfkumaxt4p365"
+    },
+    "categories": {
+      "auth": {
+        "stemconnectafrica4d50b642": {}
+      }
+    }
+  }
+}

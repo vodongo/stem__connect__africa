@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "stemconnectafrica4d50b642": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

@@ -1,0 +1,67 @@
+[
+    {
+        "id": 101,
+        "name": "John Doe",
+        "text": "Hello, Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin",
+        "src": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+        "createdAt": "10min ago",
+        "status": "online"
+    },
+    {
+        "id": 102,
+        "name": "John Doe",
+        "text": "Hello, Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin",
+        "src": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+        "createdAt": "10min ago",
+        "status": "online"
+    },
+    {
+        "id": 103,
+        "name": "Adam Harshvardhan",
+        "text": "Hello, Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin",
+        "src": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+        "createdAt": "10min ago",
+        "status": "online"
+    },
+    {
+        "id": 104,
+        "name": "Adam Harshvardhan",
+        "text": "Hello, Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin",
+        "src": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+        "createdAt": "10min ago",
+        "status": "online"
+    },
+    {
+        "id": 105,
+        "name": "John Doe",
+        "text": "Hello, Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin",
+        "src": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+        "createdAt": "10min ago",
+        "status": "online"
+    },
+    {
+        "id": 106,
+        "name": "John Doe",
+        "text": "Hello, Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin",
+        "src": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+        "createdAt": "10min ago",
+        "status": "online"
+    },
+    {
+        "id": 107,
+        "name": "Adam Harshvardhan",
+        "text": "Hello, Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin",
+        "src": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+        "createdAt": "10min ago",
+        "status": "online"
+    },
+    {
+        "id": 108,
+        "name": "Adam Harshvardhan",
+        "text": "Hello, Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin",
+        "src": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+        "createdAt": "10min ago",
+        "status": "online"
+    }
+
+]
